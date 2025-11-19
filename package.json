@@ -3,7 +3,7 @@
   "displayName": "RelaxCodingTheme",
   "publisher": "rmc8",
   "description": "Let's create the best program with eye-friendly light and dark themes, perfect for long coding sessions!",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icon": "docs/img/logo.png",
   "engines": {
     "vscode": "^1.70.0"
