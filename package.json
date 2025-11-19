@@ -1,0 +1,41 @@
+{
+  "name": "relax-coding-theme",
+  "displayName": "RelaxCodingTheme",
+  "publisher": "k@rmc-8.com",
+  "description": "Let's create the best program with eye-friendly light and dark themes, perfect for long coding sessions!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmc-8/RelaxCoding"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Relax Coding Light",
+        "uiTheme": "vs",
+        "path": "./themes/Relax Coding-light-theme.json"
+      },
+      {
+        "label": "Relax Coding Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Relax Coding-dark-theme.json"
+      },
+      {
+        "label": "Relax Coding Light High Contrast",
+        "uiTheme": "vs",
+        "path": "./themes/Relax Coding-light-hc-theme.json"
+      },
+      {
+        "label": "Relax Coding Dark High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Relax Coding-dark-hc-theme.json"
+      }
+    ]
+  }
+}
