@@ -4,6 +4,17 @@ All notable changes to the "relax-coding-theme" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.1] - 2025-11-19
+
+### Added
+- **Theme Logo:** Added official Relax Coding Theme logo (`docs/img/logo.png`) for better extension visibility in the VS Code marketplace.
+
+### Changed
+- **Documentation Reorganization:**
+    - Unified English documentation to root `README.md` (removed `docs/README/README_en.md`).
+    - Standardized language link order across all README files using ISO 639-1 alphabetical order (en, es, ja, ko, pt, zh).
+    - Updated all language navigation links to ensure consistency and improved maintainability.
+
 ## [0.0.1] - 2025-11-19
 
 ### Added

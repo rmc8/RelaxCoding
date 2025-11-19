@@ -8,7 +8,7 @@
 [![Version](https://img.shields.io/badge/version-0.0.1-green.svg)](package.json)
 [![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-Theme-blueviolet.svg)](https://code.visualstudio.com/)
 
-[🇯🇵 日本語 (Japanese)](docs/README/README_ja.md) | [🇺🇸 English](docs/README/README_en.md) | [🇰🇷 한국어 (Korean)](docs/README/README_ko.md) | [🇨🇳 中文 (Chinese)](docs/README/README_zh.md) | [🇪🇸 Español (Spanish)](docs/README/README_es.md) | [🇧🇷 Português (Portuguese)](docs/README/README_pt.md)
+[🇺🇸 English](README.md) | [🇪🇸 Español (Spanish)](docs/README/README_es.md) | [🇯🇵 日本語 (Japanese)](docs/README/README_ja.md) | [🇰🇷 한국어 (Korean)](docs/README/README_ko.md) | [🇧🇷 Português (Portuguese)](docs/README/README_pt.md) | [🇨🇳 中文 (Chinese)](docs/README/README_zh.md)
 
 </div>
 
